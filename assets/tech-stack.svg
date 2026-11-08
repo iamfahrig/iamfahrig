@@ -1,0 +1,71 @@
+<svg width="880" height="265" viewBox="0 0 880 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #12161f; stroke: #21262d; stroke-width: 1px; rx: 12px; }
+    .box-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #8b949e; letter-spacing: 0.8px; }
+    .pill-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; rx: 16px; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 500; fill: #e6edf3; }
+    .legend-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 500; fill: #c9d1d9; }
+    .legend-pct { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; font-weight: 700; fill: #ffffff; text-anchor: end; }
+    .subtext { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #6e7681; }
+    .donut-center { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 700; fill: #8b949e; text-anchor: middle; }
+  </style>
+
+  <rect x="5" y="1" width="515" height="263" class="card"/>
+  <text x="24" y="32" class="box-title">&lt;/&gt; CORE TECHNOLOGIES</text>
+
+  <g transform="translate(24, 50)">
+    <rect x="0" y="0" width="134" height="34" class="pill-bg"/><circle cx="16" cy="17" r="4.5" fill="#ff4d6d"/><text x="28" y="22" class="pill-text">Raspberry Pi</text>
+    <rect x="144" y="0" width="130" height="34" class="pill-bg"/><circle cx="160" cy="17" r="4.5" fill="#facc15"/><text x="172" y="22" class="pill-text">Linux Kernel</text>
+    <rect x="284" y="0" width="95" height="34" class="pill-bg"/><circle cx="300" cy="17" r="4.5" fill="#4ade80"/><text x="312" y="22" class="pill-text">Python</text>
+    <rect x="389" y="0" width="80" height="34" class="pill-bg"/><circle cx="405" cy="17" r="4.5" fill="#60a5fa"/><text x="417" y="22" class="pill-text">C / C++</text>
+  </g>
+  <g transform="translate(24, 96)">
+    <rect x="0" y="0" width="168" height="34" class="pill-bg"/><circle cx="16" cy="17" r="4.5" fill="#38bdf8"/><text x="28" y="22" class="pill-text">Reverse Engineering</text>
+    <rect x="178" y="0" width="155" height="34" class="pill-bg"/><circle cx="194" cy="17" r="4.5" fill="#a855f7"/><text x="206" y="22" class="pill-text">Firmware Analysis</text>
+    <rect x="343" y="0" width="126" height="34" class="pill-bg"/><circle cx="359" cy="17" r="4.5" fill="#1679a7"/><text x="371" y="22" class="pill-text">Wireshark / Net</text>
+  </g>
+  <g transform="translate(24, 142)">
+    <rect x="0" y="0" width="158" height="34" class="pill-bg"/><circle cx="16" cy="17" r="4.5" fill="#fb923c"/><text x="28" y="22" class="pill-text">Smart Home &amp; IoT</text>
+    <rect x="168" y="0" width="145" height="34" class="pill-bg"/><circle cx="184" cy="17" r="4.5" fill="#2dd4bf"/><text x="196" y="22" class="pill-text">MQTT Protocols</text>
+    <rect x="323" y="0" width="146" height="34" class="pill-bg"/><circle cx="339" cy="17" r="4.5" fill="#4eaa25"/><text x="351" y="22" class="pill-text">Bash Automation</text>
+  </g>
+  <g transform="translate(24, 188)">
+    <rect x="0" y="0" width="140" height="34" class="pill-bg"/><circle cx="16" cy="17" r="4.5" fill="#818cf8"/><text x="28" y="22" class="pill-text">PHP 8.x / Woo</text>
+    <rect x="150" y="0" width="112" height="34" class="pill-bg"/><circle cx="166" cy="17" r="4.5" fill="#3178c6"/><text x="178" y="22" class="pill-text">TypeScript</text>
+    <rect x="272" y="0" width="132" height="34" class="pill-bg"/><circle cx="288" cy="17" r="4.5" fill="#2496ed"/><text x="300" y="22" class="pill-text">Docker &amp; Nginx</text>
+    <rect x="414" y="0" width="55" height="34" class="pill-bg"/><circle cx="425" cy="16.5" r="4.5" fill="#dc382d"/><text x="433" y="21.5" class="pill-text">SQL</text>
+  </g>
+
+  <rect x="534" y="1" width="341" height="263" class="card"/>
+  <text x="556" y="32" class="box-title">SPECIALIZATION &amp; DOMAINS</text>
+  
+  <g transform="translate(620, 132)">
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#38bdf8" stroke-width="22" stroke-dasharray="105.6 301.6" stroke-dashoffset="-0.0" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#a855f7" stroke-width="22" stroke-dasharray="75.4 301.6" stroke-dashoffset="-105.6" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#818cf8" stroke-width="22" stroke-dasharray="60.3 301.6" stroke-dashoffset="-181.0" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#4ade80" stroke-width="22" stroke-dasharray="36.2 301.6" stroke-dashoffset="-241.3" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#fb923c" stroke-width="22" stroke-dasharray="24.1 301.6" stroke-dashoffset="-277.5" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="37" fill="#12161f"/>
+    <text x="0" y="4" class="donut-center">5 DOMAINS</text>
+  </g>
+
+  <g transform="translate(708, 60)">
+    <circle cx="8" cy="14" r="4.5" fill="#38bdf8"/>
+    <text x="20" y="18" class="legend-text">Systems &amp; IoT</text>
+    <text x="155" y="18" class="legend-pct">35.0%</text>
+    <circle cx="8" cy="44" r="4.5" fill="#a855f7"/>
+    <text x="20" y="48" class="legend-text">Reverse Eng</text>
+    <text x="155" y="48" class="legend-pct">25.0%</text>
+    <circle cx="8" cy="74" r="4.5" fill="#818cf8"/>
+    <text x="20" y="78" class="legend-text">Web Architecture</text>
+    <text x="155" y="78" class="legend-pct">20.0%</text>
+    <circle cx="8" cy="104" r="4.5" fill="#4ade80"/>
+    <text x="20" y="108" class="legend-text">Python &amp; Shell</text>
+    <text x="155" y="108" class="legend-pct">12.0%</text>
+    <circle cx="8" cy="134" r="4.5" fill="#fb923c"/>
+    <text x="20" y="138" class="legend-text">Protocols &amp; Net</text>
+    <text x="155" y="138" class="legend-pct">8.0%</text>
+  </g>
+
+  <text x="704" y="246" text-anchor="middle" class="subtext">Based on real verified GitHub metrics</text>
+</svg>
